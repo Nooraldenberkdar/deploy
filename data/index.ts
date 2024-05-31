@@ -199,7 +199,7 @@ export const socialMedia = [
   {
     id: 5,
     img: "/resume.svg",
-    href:"https://drive.google.com/file/d/14ji-fdSmuN2Fd_XLNWA76ydPkcGBgkuX/view?usp=drive_link",
+    href:"https://drive.google.com/file/d/1wa55FVeHTxBKIYRpRer-H2gvuc3na-fV/view?usp=drive_link",
   },
  
 ];
